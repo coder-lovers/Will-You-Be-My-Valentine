@@ -1007,10 +1007,3 @@ body {
 .flower__g-fr {
   display: none !important;
 }
-
-
-.night h1{
-  font-size: clamp(24px, 4vw, 48px);
-  padding: 20px;
-  text-shadow: 0 2px 10px rgba(0,0,0,0.7);
-}
